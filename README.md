@@ -13,9 +13,11 @@ It has convolution layers of 3×3 filter with a stride 1 and always used the sam
 
 Datasets used- https://www.kaggle.com/kmader/pulmonary-chest-xray-abnormalities
 
-## Results:
+Video Link of the project: https://drive.google.com/file/d/12DiswzNkkPJryPE6AUL-5blsl_kk-_4z/view?usp=sharing
 
-GUI for detection of TB       
+Technical paper link: https://docs.google.com/document/d/1uNIcy6Zez8ZlfX-8gJ5C2zvvNoNbgjqWunjIw6mCWdI/edit?usp=sharing
+
+## Thakyou🔥❤
 
 
 
